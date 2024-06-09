@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./Leom Page/images/logo.png" alt="Logo" height="80">
+    <img src="https://github.com/iamaymo/Leom-Page/blob/main/images/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Leom Page</h3>

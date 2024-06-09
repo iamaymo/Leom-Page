@@ -487,8 +487,15 @@ body {
   text-align: center;
   font-size: 18px;
 }
-.footer span{
+.footer span {
   font-weight: bold;
   color: var(--main-color);
 }
 /* Start Footer */
+
+/* edits 2024-june-9 */
+/* add the style of social media icons links */
+.iconslinks {
+  padding: 0;
+  margin: 0;
+}
