@@ -80,7 +80,6 @@ body {
 /* Start Header */
 
 .header {
-  margin: 10px;
   position: fixed;
   z-index: 1000;
   background-color: white;
